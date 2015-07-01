@@ -1,0 +1,4 @@
+[26-Mar-2015 13:37:52 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home5/nisclie1/public_html/client/parker/wp-includes/class-wp-theme.php on line 377
+[26-Mar-2015 13:38:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home5/nisclie1/public_html/client/parker/wp-includes/functions.php on line 1374
+[26-Mar-2015 13:38:07 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home5/nisclie1/public_html/client/parker/wp-includes/link-template.php on line 1406
+[26-Mar-2015 13:38:14 UTC] PHP Fatal error:  Class 'wpdb' not found in /home5/nisclie1/public_html/client/parker/wp-includes/load.php on line 352
